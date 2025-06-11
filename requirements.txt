@@ -1,6 +1,7 @@
-streamlit
 pandas
-mlxtend
-scipy
 scikit-learn
 numpy
+streamlit==1.45.1
+pandas==2.3.0
+mlxtend==0.23.4
+scipy==1.15.3
